@@ -1,1 +1,6 @@
-itms-services:///?action=download-manifest&url=https://gitee.com/satadriver/test20190601/raw/master/manifest.plist
+https://github.com/satadriver/test20190601/raw/master/Tips.ipa
+https://raw.githubusercontent.com/satadriver/test20190601/master/manifest.plist
+https://raw.githubusercontent.com/satadriver/test20190601/master/tips.png
+https://raw.githubusercontent.com/satadriver/test20190601/master/tips_small.png
+
+itms-services:///?action=download-manifest&url=https://raw.githubusercontent.com/satadriver/test20190601/master/manifest.plist
